@@ -1,4 +1,3 @@
-// let score = prompt("กรอกคะแนนของคุณ :")
 function show(){
     var score = document.getElementById("score").value;
         var result = document.getElementById("result");
